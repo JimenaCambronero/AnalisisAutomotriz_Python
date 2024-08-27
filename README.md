@@ -28,11 +28,11 @@
 <img width="1222" alt="Captura de pantalla 2024-08-27 a las 15 36 51" src="https://github.com/user-attachments/assets/ae91681a-e55c-4bd0-ab6d-3a8806f6822f">
 
 
+
+
 ¡Disfruta aprendiendo y analizando datos con Python! 🐍📊
 
 # <h4> Si te gusta alguno de los repositorios, podes hacer clic para darme tu apoyo en el ⭐️ botón y correr la voz 🦄⁣ <h4>
 ⁣ 👩‍💻 Muchas gracias y Saludos!⁣
 <br>
-<br>
-<br>
-# <h4> Este repositorio se ha basado en las clases del Bootcamp UnicornAcademy - Modulo Python 🦄⁣ <h4>
+
